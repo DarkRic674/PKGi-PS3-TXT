@@ -1,9 +1,9 @@
 # PKGi-PS3-TXT
 1)
 
-en : put the config.txt and dbformat.txt files in hdd0/game/np00pkgi/usrdir.
+en : put the config.txt and dbformat.txt files in /dev_hdd0/game/NP00PKGI3/USRDIR
 
-fr : mettez-les fichiers config.txt et dbformat.txt dans hdd0/game/np00pkgi/usrdir.
+fr : mettez-les fichiers config.txt et dbformat.txt dans /dev_hdd0/game/NP00PKGI3/USRDIR
 
 2)
 
